@@ -1,0 +1,6 @@
+Hello guys, welcome to Python tutorial
+This is a sample text for Python Operations
+Python is a great language,
+Lets count Python word multiple times in Python code
+Nice
+Cool
