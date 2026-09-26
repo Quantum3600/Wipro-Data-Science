@@ -1,6 +1,6 @@
 from sys import argv
-num1 = set(argv[1].split('-'))
-num2 = set(argv[2].split('-'))
+num1 = argv[1].split('-')
+num2 = argv[2].split('-')
 numbers = argv[3].split('-')
 
 happiness = 0
